@@ -1,8 +1,6 @@
 # Exemplos-JavaScript
 Estudos de Fundamentos JavaScript
 
-Estudos de Fundamentos JavaScript
-
 - Declaração de Variáveis
 - Tipos de Dados
 - Operadores Aritméticos
